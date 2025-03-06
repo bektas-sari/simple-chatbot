@@ -29,7 +29,7 @@ Make sure you have Node.js (v20 or later) installed on your system.
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/bektas-sari/simple-chatbot)>
 cd <project-directory>
 ```
 
@@ -81,4 +81,6 @@ The built files will be available in the `dist` directory.
 ---
 
 This project was built with modern web development practices, focusing on type safety, component reusability, and a clean user interface.
+
+
 
