@@ -29,7 +29,7 @@ Make sure you have Node.js (v20 or later) installed on your system.
 
 1. Clone the repository:
 ```bash
-git clone <[your-repo-url](https://github.com/bektas-sari/simple-chatbot)>
+git clone <[https://github.com/bektas-sari/simple-chatbot]>
 cd <project-directory>
 ```
 
